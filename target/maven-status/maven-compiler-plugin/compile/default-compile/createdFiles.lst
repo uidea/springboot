@@ -1,9 +1,14 @@
 com\springboot\dao\UserDao.class
 com\springboot\service\impl\UserServiceimpl.class
+com\springboot\controller\observer\Test.class
+com\springboot\controller\UserApiResource.class
+com\springboot\controller\observer\Subject.class
 com\springboot\swagger\config\SwaggerConfig.class
 com\springboot\model\Greeting.class
 com\springboot\model\User.class
+com\springboot\controller\observer\User.class
 com\springboot\service\UserService.class
-com\springboot\api\GreetingController.class
 com\springboot\SpringbootApplication.class
-com\springboot\api\UserController.class
+com\springboot\api\UserApi.class
+com\springboot\controller\observer\Observer.class
+com\springboot\controller\observer\WechatServer.class

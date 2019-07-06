@@ -1,2 +1,2 @@
 # springboot
-# http://127.0.0.1/swagger-ui.html#/
+# http://www.liubin.com/swagger-ui.html#/
