@@ -1,6 +1,8 @@
 D:\workspace\springboot\src\main\java\com\springboot\controller\observer\Subject.java
 D:\workspace\springboot\src\main\java\com\springboot\model\User.java
 D:\workspace\springboot\src\main\java\com\springboot\SpringbootApplication.java
+D:\workspace\springboot\src\main\java\com\springboot\test.java
+D:\workspace\springboot\src\main\java\com\springboot\api\SmtpApi.java
 D:\workspace\springboot\src\main\java\com\springboot\controller\UserApiResource.java
 D:\workspace\springboot\src\main\java\com\springboot\controller\observer\WechatServer.java
 D:\workspace\springboot\src\main\java\com\springboot\swagger\config\SwaggerConfig.java
@@ -12,3 +14,4 @@ D:\workspace\springboot\src\main\java\com\springboot\controller\observer\Observe
 D:\workspace\springboot\src\main\java\com\springboot\model\Greeting.java
 D:\workspace\springboot\src\main\java\com\springboot\controller\observer\Test.java
 D:\workspace\springboot\src\main\java\com\springboot\service\impl\UserServiceimpl.java
+D:\workspace\springboot\src\main\java\com\springboot\controller\SmtpApiResource.java
